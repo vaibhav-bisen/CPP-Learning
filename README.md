@@ -9,7 +9,7 @@ This is the folder in which I store all cpp related files.
 ![App Screenshot](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470pag3fh2lyvccnurytx2bbiyue37smgueuyqda5s&rid=giphy.gif&ct=g)
 
 
-## Roadmap
+## Roadmap............................
 
 - C++ Basics
     
@@ -54,12 +54,12 @@ This is the folder in which I store all cpp related files.
 
 
 
-## Authors
+## Authors......................................
 
 - Vaibhav Bisen
 
 
-## 🛠 Skills
+## 🛠 Skills...................................
 Python,
 C,
 C++,
@@ -71,7 +71,7 @@ JavaScript,
 
 
 
-## 🚀 About Me
+## 🚀 About Me.................................
 I'm a full stack developer...
 
     - who know C, c+, Python, and Basic of JAVA
