@@ -11,7 +11,7 @@ This is the folder in which I store all cpp related files.
 
 ## Roadmap............................
 
-- C++ Basics
+C++ Basics
     
     ° Operators
 
@@ -27,7 +27,7 @@ This is the folder in which I store all cpp related files.
     
     ° Time complexity and Space complexity
 
-- DSA
+DSA
 
     °
     
